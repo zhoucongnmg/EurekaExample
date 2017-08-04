@@ -13,6 +13,7 @@ import org.springframework.web.client.RestTemplate;
 import java.net.URI;
 import java.util.List;
 
+//客户端2
 @SpringBootApplication
 @EnableEurekaClient
 @RestController
