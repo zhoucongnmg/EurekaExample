@@ -1,3 +1,4 @@
 这是git测试
 新建一行
-在添加一行
+再添加一行
+Creating a new branch is quick.
